@@ -18,7 +18,7 @@ _printf is a custom implementation of the C programming function printf. This pr
 - Handle conversion specifiers d, i.
 - Create a man page for your function.
 
-### Advanced Tasks
+### Advanced Task
  
 - Handle conversion specifier b.
 - Handle conversion specifiers u, o, x, X.
